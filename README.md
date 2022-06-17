@@ -2,6 +2,8 @@
 This is my FTR final project
 Azure portal link:
 https://lively-bush-0f9493d10.1.azurestaticapps.net/
+Youtube Video link:
+https://youtu.be/VyvtMOvPrbU
 Azure Static Web Apps:
 Azure Static Web Apps is a service that automatically builds and deploys full stack web apps to Azure from a code repository.
 The workflow of Azure Static Web Apps is tailored to a developer's daily workflow. Apps are built and deployed based off code changes.
