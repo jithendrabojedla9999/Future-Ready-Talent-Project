@@ -1,4 +1,4 @@
-# finalproject
+Lung Cancer Prediction
 Azure portal link:
 https://lively-bush-0f9493d10.1.azurestaticapps.net/
 Youtube Video link:
